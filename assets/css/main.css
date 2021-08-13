@@ -1394,7 +1394,7 @@ input, select, textarea {
 			}
 
 		ul.contact-icons.color1 > li:before {
-			color: #726193;
+			color: rgba(203,31,90,1);
 		}
 
 		ul.contact-icons.color2 > li:before {
